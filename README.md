@@ -3,7 +3,7 @@
 > **Ethical Security Research Collective**  
 > *Complex ko simple. Simple ko powerful.*
 
-[![Website](https://img.shields.io/badge/Website-mrcyberharsh.github.io-000000?style=for-the-badge&logo=github)](https://mrcyberpulse.com)
+[![Website](https://img.shields.io/badge/Website-mrcyberharsh.github.io-000000?style=for-the-badge&logo=github)](https://mrcyberharsh.github.io/mrcyber/)
 [![GitHub](https://img.shields.io/badge/GitHub-mrcyberharsh-181717?style=for-the-badge&logo=github)](https://github.com/mrcyberharsh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Saini-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-saini-a7866641b)
 [![Instagram](https://img.shields.io/badge/Instagram-@192.168.mr.cyber.h4rsh-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/192.168.mr.cyber.h4rsh)
